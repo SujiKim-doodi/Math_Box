@@ -1,4 +1,4 @@
-# 기본 계산기 (premium)
+# 기본 계산기 (all)
 def add(a, b):
 	return a+b
 
